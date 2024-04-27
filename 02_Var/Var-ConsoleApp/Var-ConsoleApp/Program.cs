@@ -1,15 +1,24 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System;
 
-Console.WriteLine("Hello, World!");
+static void Intro()
+{
+    string text = "Hello, World! What a wonderful day! :) \nWhat is your name?";
+    Console.WriteLine(text);
+    string userName = Console.ReadLine();
+    Console.WriteLine($"Hello, {userName}! How are you today?");
+    
+}
 
-string text;
-//een string is een reeks van tekens
-int number;
-//een int is een geheel getal positief of negatief
-double decimalnumber;
-//een double is een kommagetal
-bool boolean;
-//een bool is een waarde die true of false kan zijn
+int num1;
+int num2;
+int result;
 
-var alletypes;
-//een var is een type dat automatisch wordt bepaald door de compiler
+Intro();
+Console.WriteLine("Input a number:");
+num1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Input another number:");
+num2 = Convert.ToInt32(Console.ReadLine());
+result = num1 + num2;
+Console.WriteLine($"The sum of {num1} and {num2} is {result}.");
+Console.ReadKey();
