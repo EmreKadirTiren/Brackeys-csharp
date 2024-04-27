@@ -1,0 +1,5 @@
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\bin\Debug\net8.0\win-x86\publish\01_Basics.exe
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\bin\Debug\net8.0\win-x86\publish\01_Basics.dll
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\bin\Debug\net8.0\win-x86\publish\01_Basics.deps.json
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\bin\Debug\net8.0\win-x86\publish\01_Basics.runtimeconfig.json
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\bin\Debug\net8.0\win-x86\publish\01_Basics.pdb

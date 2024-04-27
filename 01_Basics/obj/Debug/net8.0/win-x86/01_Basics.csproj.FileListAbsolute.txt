@@ -1,0 +1,15 @@
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\bin\Debug\net8.0\win-x86\01_Basics.exe
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\bin\Debug\net8.0\win-x86\01_Basics.deps.json
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\bin\Debug\net8.0\win-x86\01_Basics.runtimeconfig.json
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\bin\Debug\net8.0\win-x86\01_Basics.dll
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\bin\Debug\net8.0\win-x86\01_Basics.pdb
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\obj\Debug\net8.0\win-x86\01_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\obj\Debug\net8.0\win-x86\01_Basics.AssemblyInfoInputs.cache
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\obj\Debug\net8.0\win-x86\01_Basics.AssemblyInfo.cs
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\obj\Debug\net8.0\win-x86\01_Basics.csproj.CoreCompileInputs.cache
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\obj\Debug\net8.0\win-x86\01_Basics.sourcelink.json
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\obj\Debug\net8.0\win-x86\01_Basics.dll
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\obj\Debug\net8.0\win-x86\refint\01_Basics.dll
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\obj\Debug\net8.0\win-x86\01_Basics.pdb
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\obj\Debug\net8.0\win-x86\01_Basics.genruntimeconfig.cache
+C:\Users\emrek\Desktop\Brackeys-csharp\01_Basics\obj\Debug\net8.0\win-x86\ref\01_Basics.dll
