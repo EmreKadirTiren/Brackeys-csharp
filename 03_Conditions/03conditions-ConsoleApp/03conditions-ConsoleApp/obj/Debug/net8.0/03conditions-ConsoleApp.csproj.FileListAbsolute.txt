@@ -1,0 +1,15 @@
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\03conditions-ConsoleApp\03conditions-ConsoleApp\obj\Debug\net8.0\03conditions-ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\03conditions-ConsoleApp\03conditions-ConsoleApp\obj\Debug\net8.0\03conditions-ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\03conditions-ConsoleApp\03conditions-ConsoleApp\obj\Debug\net8.0\03conditions-ConsoleApp.AssemblyInfo.cs
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\03conditions-ConsoleApp\03conditions-ConsoleApp\obj\Debug\net8.0\03conditions-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\03conditions-ConsoleApp\03conditions-ConsoleApp\obj\Debug\net8.0\03conditions-ConsoleApp.sourcelink.json
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\03conditions-ConsoleApp\03conditions-ConsoleApp\bin\Debug\net8.0\03conditions-ConsoleApp.exe
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\03conditions-ConsoleApp\03conditions-ConsoleApp\bin\Debug\net8.0\03conditions-ConsoleApp.deps.json
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\03conditions-ConsoleApp\03conditions-ConsoleApp\bin\Debug\net8.0\03conditions-ConsoleApp.runtimeconfig.json
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\03conditions-ConsoleApp\03conditions-ConsoleApp\bin\Debug\net8.0\03conditions-ConsoleApp.dll
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\03conditions-ConsoleApp\03conditions-ConsoleApp\bin\Debug\net8.0\03conditions-ConsoleApp.pdb
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\03conditions-ConsoleApp\03conditions-ConsoleApp\obj\Debug\net8.0\03conditions-ConsoleApp.dll
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\03conditions-ConsoleApp\03conditions-ConsoleApp\obj\Debug\net8.0\refint\03conditions-ConsoleApp.dll
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\03conditions-ConsoleApp\03conditions-ConsoleApp\obj\Debug\net8.0\03conditions-ConsoleApp.pdb
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\03conditions-ConsoleApp\03conditions-ConsoleApp\obj\Debug\net8.0\03conditions-ConsoleApp.genruntimeconfig.cache
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\03conditions-ConsoleApp\03conditions-ConsoleApp\obj\Debug\net8.0\ref\03conditions-ConsoleApp.dll
