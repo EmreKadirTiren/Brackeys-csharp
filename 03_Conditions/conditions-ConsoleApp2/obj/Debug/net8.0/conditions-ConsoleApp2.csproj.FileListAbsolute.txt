@@ -1,0 +1,15 @@
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\conditions-ConsoleApp2\obj\Debug\net8.0\conditions-ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\conditions-ConsoleApp2\obj\Debug\net8.0\conditions-ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\conditions-ConsoleApp2\obj\Debug\net8.0\conditions-ConsoleApp2.AssemblyInfo.cs
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\conditions-ConsoleApp2\obj\Debug\net8.0\conditions-ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\conditions-ConsoleApp2\obj\Debug\net8.0\conditions-ConsoleApp2.sourcelink.json
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\conditions-ConsoleApp2\bin\Debug\net8.0\conditions-ConsoleApp2.exe
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\conditions-ConsoleApp2\bin\Debug\net8.0\conditions-ConsoleApp2.deps.json
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\conditions-ConsoleApp2\bin\Debug\net8.0\conditions-ConsoleApp2.runtimeconfig.json
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\conditions-ConsoleApp2\bin\Debug\net8.0\conditions-ConsoleApp2.dll
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\conditions-ConsoleApp2\bin\Debug\net8.0\conditions-ConsoleApp2.pdb
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\conditions-ConsoleApp2\obj\Debug\net8.0\conditions-ConsoleApp2.dll
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\conditions-ConsoleApp2\obj\Debug\net8.0\refint\conditions-ConsoleApp2.dll
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\conditions-ConsoleApp2\obj\Debug\net8.0\conditions-ConsoleApp2.pdb
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\conditions-ConsoleApp2\obj\Debug\net8.0\conditions-ConsoleApp2.genruntimeconfig.cache
+C:\Users\emrek\Desktop\Brackeys-csharp\03_Conditions\conditions-ConsoleApp2\obj\Debug\net8.0\ref\conditions-ConsoleApp2.dll
