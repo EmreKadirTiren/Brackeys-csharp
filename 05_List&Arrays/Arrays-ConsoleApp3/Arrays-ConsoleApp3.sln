@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays-ConsoleApp3", "Arrays-ConsoleApp3.csproj", "{868644F4-AAF4-4F15-8204-C83DD6D56DCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{868644F4-AAF4-4F15-8204-C83DD6D56DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868644F4-AAF4-4F15-8204-C83DD6D56DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868644F4-AAF4-4F15-8204-C83DD6D56DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868644F4-AAF4-4F15-8204-C83DD6D56DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
