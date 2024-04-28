@@ -1,0 +1,15 @@
+C:\Users\emrek\Desktop\Brackeys-csharp\04_Loops\Loops-ConsoleApp3\obj\Debug\net8.0\Loops-ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrek\Desktop\Brackeys-csharp\04_Loops\Loops-ConsoleApp3\obj\Debug\net8.0\Loops-ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\emrek\Desktop\Brackeys-csharp\04_Loops\Loops-ConsoleApp3\obj\Debug\net8.0\Loops-ConsoleApp3.AssemblyInfo.cs
+C:\Users\emrek\Desktop\Brackeys-csharp\04_Loops\Loops-ConsoleApp3\obj\Debug\net8.0\Loops-ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\emrek\Desktop\Brackeys-csharp\04_Loops\Loops-ConsoleApp3\obj\Debug\net8.0\Loops-ConsoleApp3.sourcelink.json
+C:\Users\emrek\Desktop\Brackeys-csharp\04_Loops\Loops-ConsoleApp3\bin\Debug\net8.0\Loops-ConsoleApp3.exe
+C:\Users\emrek\Desktop\Brackeys-csharp\04_Loops\Loops-ConsoleApp3\bin\Debug\net8.0\Loops-ConsoleApp3.deps.json
+C:\Users\emrek\Desktop\Brackeys-csharp\04_Loops\Loops-ConsoleApp3\bin\Debug\net8.0\Loops-ConsoleApp3.runtimeconfig.json
+C:\Users\emrek\Desktop\Brackeys-csharp\04_Loops\Loops-ConsoleApp3\bin\Debug\net8.0\Loops-ConsoleApp3.dll
+C:\Users\emrek\Desktop\Brackeys-csharp\04_Loops\Loops-ConsoleApp3\bin\Debug\net8.0\Loops-ConsoleApp3.pdb
+C:\Users\emrek\Desktop\Brackeys-csharp\04_Loops\Loops-ConsoleApp3\obj\Debug\net8.0\Loops-ConsoleApp3.dll
+C:\Users\emrek\Desktop\Brackeys-csharp\04_Loops\Loops-ConsoleApp3\obj\Debug\net8.0\refint\Loops-ConsoleApp3.dll
+C:\Users\emrek\Desktop\Brackeys-csharp\04_Loops\Loops-ConsoleApp3\obj\Debug\net8.0\Loops-ConsoleApp3.pdb
+C:\Users\emrek\Desktop\Brackeys-csharp\04_Loops\Loops-ConsoleApp3\obj\Debug\net8.0\Loops-ConsoleApp3.genruntimeconfig.cache
+C:\Users\emrek\Desktop\Brackeys-csharp\04_Loops\Loops-ConsoleApp3\obj\Debug\net8.0\ref\Loops-ConsoleApp3.dll
