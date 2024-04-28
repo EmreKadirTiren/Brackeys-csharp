@@ -4,7 +4,7 @@ Console.WriteLine("Hello, World!");
 
 //Now lets create a program that will spit out a top 5 movie list with the user's input
 
-static void movieinputoutputai()
+static void movieinputoutputai()//movie input output made by copilot
 {
     Console.WriteLine("How many movies do you want to enter?");
     int numMovies = Convert.ToInt32(Console.ReadLine());
@@ -23,20 +23,20 @@ static void movieinputoutputai()
     }
 }
 
-Console.WriteLine("How many movies do you want to enter?");
-int aantalmov = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("How many movies do you want to enter?");//asks how many movies 
+int aantalmov = Convert.ToInt32(Console.ReadLine());//converts number and stores it
 
-string[] topmovies = new string [aantalmov];
-for (int i = 0; i < aantalmov; i++)
+string[] topmovies = new string [aantalmov];//makes aray with var aantalmov
+for (int i = 0; i < aantalmov; i++)//loop that will fill in the array
 {
     int rank = i + 1;
     Console.WriteLine("Enter movie " + rank);
     topmovies[i] = Console.ReadLine();
 }
 
-for (int i = 0; i < topmovies.Length; i++)
+for (int i = 0; i < topmovies.Length; i++)//loop that wil print out the array
 {
     Console.WriteLine(topmovies[i]);
 }
 
-Console.ReadKey();
+Console.ReadKey();// Waits key to be pressed before closing
