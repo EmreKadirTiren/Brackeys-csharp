@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Loops-ConsoleAppb 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b2d470ff96cc5388c74d4e9d9384c343d9394a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c477f07a40705c76983c467516ce05946edc9fde")]
 [assembly: System.Reflection.AssemblyProductAttribute("Loops-ConsoleAppb 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Loops-ConsoleAppb 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
