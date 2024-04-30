@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
-
+Console.WriteLine("Copyright (C) 2024  Emre Kadir Tiren\n")
 static void Intro()
 {
     string text = "Hello, World! What a wonderful day! :) \nWhat is your name?";

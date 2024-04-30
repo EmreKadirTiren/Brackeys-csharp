@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
+Console.WriteLine("Copyright (C) 2024  Emre Kadir Tiren\n");
 Console.Title = "Basics - Console App";
 Console.BackgroundColor = ConsoleColor.DarkBlue;
 Console.ForegroundColor = ConsoleColor.DarkCyan;

@@ -1,7 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+Console.WriteLine("Copyright (C) 2024  Emre Kadir Tiren\n");
+
 //Task: Make a cool number generator that generates the power of a number that
 //the user can choose and how many times it must power it
 //Use the line:
+
 
 double num;
 double times;

@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Copyright (C) 2024  Emre Kadir Tiren\n");
 
 Console.WriteLine("Hello, put in a number");
 int num1 = Convert.ToInt32(Console.ReadLine()); //collects num1

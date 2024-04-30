@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Copyright (C) 2024  Emre Kadir Tiren");
 
 int i; //declares variable i of type int
 for (i = 0; i < 10; i++) //initializes i to 0, checks if i is less than 10,runs the program and then increments i by 1

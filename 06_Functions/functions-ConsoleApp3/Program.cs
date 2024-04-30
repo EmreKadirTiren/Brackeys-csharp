@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Copyright (C) 2024  Emre Kadir Tiren\n");
 
 //create a method that coutns words in a sentece and return a number
 //Use the next code:

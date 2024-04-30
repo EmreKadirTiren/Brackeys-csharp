@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Copyright (C) 2024  Emre Kadir Tiren\n");
 
 Console.WriteLine("Type 1 or 2");
 

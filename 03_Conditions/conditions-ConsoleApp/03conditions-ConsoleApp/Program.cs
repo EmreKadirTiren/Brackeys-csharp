@@ -1,7 +1,7 @@
 // See https://aka.ms/new-console-template for more information
 
 //write a program that gives tickets 5 dollars each
-
+Console.WriteLine("Copyright (C) 2024  Emre Kadir Tiren\n");
 using System.ComponentModel;
 
 static void Intro() //maakt functie intro

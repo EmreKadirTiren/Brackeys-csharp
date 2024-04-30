@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Copyright (C) 2024  Emre Kadir Tiren\n");
 
     string[] names = { "Adam", "Barry", "Charlie" };//a variable but it can store more than one value
 //string[] names = new string[3]; //another way to declare an array you must specify the size of the array

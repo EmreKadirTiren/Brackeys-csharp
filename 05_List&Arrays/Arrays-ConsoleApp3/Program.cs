@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Copyright (C) 2024  Emre Kadir Tiren\n");
 
 //Now lets create a program that will spit out a top 5 movie list with the user's input
 

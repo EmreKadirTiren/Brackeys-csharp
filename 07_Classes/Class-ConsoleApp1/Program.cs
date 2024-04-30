@@ -2,14 +2,14 @@
 
 using Class_ConsoleApp1;//imports the namespace Class_ConsoleApp1
 
-Console.WriteLine("Hello, World!\n");//prints "Hello, World!" to the console
+Console.WriteLine("Copyright (C) 2024  Emre Kadir Tiren\n");
 Wizard wizard01 = new Wizard("Dan", "Fireball", 3);//creates a new instance of the Wizard class
 //the constructor of the Wizard class is called with the arguments "Dan", "Fireball", 3
 
 for (int i = 0; i < 4; i++)
 {
     wizard01.CastSpell();//calls the CastSpell method of the wizard01 object
-}
+}Copyright (C) 2024  Emre Kadir Tiren
 
 wizard01.LongRest();
 //calls the LongRest method of the wizard01 object  
