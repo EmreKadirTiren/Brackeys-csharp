@@ -9,7 +9,7 @@ Wizard wizard01 = new Wizard("Dan", "Fireball", 3);//creates a new instance of t
 for (int i = 0; i < 4; i++)
 {
     wizard01.CastSpell();//calls the CastSpell method of the wizard01 object
-}Copyright (C) 2024  Emre Kadir Tiren
+}
 
 wizard01.LongRest();
 //calls the LongRest method of the wizard01 object  

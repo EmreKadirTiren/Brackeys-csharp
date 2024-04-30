@@ -7,7 +7,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4625c843-1761-485c-99ae-10d8c90ad0ce" name="Changes" comment="" />
+    <list default="true" id="4625c843-1761-485c-99ae-10d8c90ad0ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/conditions-ConsoleApp2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/conditions-ConsoleApp2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/conditions-ConsoleApp2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/conditions-ConsoleApp2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/conditions-ConsoleApp2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/conditions-ConsoleApp2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/conditions-ConsoleApp2.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/conditions-ConsoleApp2.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/conditions-ConsoleApp2.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/conditions-ConsoleApp2.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/conditions-ConsoleApp2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/conditions-ConsoleApp2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/conditions-ConsoleApp2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/conditions-ConsoleApp2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/conditions-ConsoleApp2.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/conditions-ConsoleApp2.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/ref/conditions-ConsoleApp2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/ref/conditions-ConsoleApp2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/refint/conditions-ConsoleApp2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/refint/conditions-ConsoleApp2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/bin/Debug/net8.0/Class-ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/bin/Debug/net8.0/Class-ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/bin/Debug/net8.0/Class-ConsoleApp1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/bin/Debug/net8.0/Class-ConsoleApp1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/bin/Debug/net8.0/Class-ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/bin/Debug/net8.0/Class-ConsoleApp1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/Debug/net8.0/Class-ConsoleApp1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/Debug/net8.0/Class-ConsoleApp1.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/Debug/net8.0/Class-ConsoleApp1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/Debug/net8.0/Class-ConsoleApp1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/Debug/net8.0/Class-ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/Debug/net8.0/Class-ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/Debug/net8.0/Class-ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/Debug/net8.0/Class-ConsoleApp1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/Debug/net8.0/Class-ConsoleApp1.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/Debug/net8.0/Class-ConsoleApp1.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/Debug/net8.0/ref/Class-ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/Debug/net8.0/ref/Class-ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/Debug/net8.0/refint/Class-ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/Debug/net8.0/refint/Class-ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_Classes/Class-ConsoleApp1/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,10 +49,22 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "EmreKadirTiren"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://emrekadirtiren@github.com/EmreKadirTiren/Brackeys-csharp.git",
+    "accountId": "51077143-7520-448a-a738-ebf156665bbe"
+  }
+}]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2fhEwVPwKsu7FuLJhkFluOmhO0s" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,12 +75,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    ".NET Project.conditions-ConsoleApp2.executor": "Debug",
+    ".NET Project.conditions-ConsoleApp2.executor": "Run",
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "switch",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -86,6 +126,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714245147652</updated>
       <workItem from="1714245148850" duration="466000" />
+      <workItem from="1714486183396" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="the switch function">
       <option name="closed" value="true" />
